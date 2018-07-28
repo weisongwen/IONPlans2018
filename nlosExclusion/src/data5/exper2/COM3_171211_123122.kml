@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Style id="P0">
+  <IconStyle>
+    <color>ffffffff</color>
+    <scale>0.3</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Style id="P1">
+  <IconStyle>
+    <color>ff008800</color>
+    <scale>0.2</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Style id="P2">
+  <IconStyle>
+    <color>ff00aaff</color>
+    <scale>0.2</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Style id="P3">
+  <IconStyle>
+    <color>ff0000ff</color>
+    <scale>0.2</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Style id="P4">
+  <IconStyle>
+    <color>ff00ffff</color>
+    <scale>0.2</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Style id="P5">
+  <IconStyle>
+    <color>ffff00ff</color>
+    <scale>0.2</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+<name>Rover Track</name>
+<Style>
+<LineStyle>
+<color>ff00ffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>
+114.182178178,22.303814194,0.000
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+  <name>Rover Position</name>
+<Placemark>
+<styleUrl>#P3</styleUrl>
+<Point>
+<coordinates>114.182178178,22.303814194,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+float64 GNSS_time
+float64 total_sv
+float64 prn_satellites_index
+float64 pseudorange
+float64 snr
+float64 elevation
+float64 azimuth
+float64 err_tropo
+float64 err_iono
+float64 sat_clk_err
+float64 sat_pos_x
+float64 sat_pos_y
+float64 sat_pos_z
+int64 visable #0-Not sure 1-visable 2-invisable
+string  sat_system

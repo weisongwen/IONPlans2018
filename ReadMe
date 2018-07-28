@@ -1,0 +1,9 @@
+# 3_nlosMovobj
+This package is finished by Dr. WEN Weisong
+Function: improve GNSS positioning with assistance of perception in autonomous driving
+
+=====================Static Experiment================================
+-------Package:src_staticnlos exclusion version.tar.gz 
+this package is used for static experiment and bag file for this experiment is /media/wenws/life/20171211/2031.bag, 
+This result is prepared for IEEE PLAN conference 2018.
+Contact: wenwsrobo@gmail.com
